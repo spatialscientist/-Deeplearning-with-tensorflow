@@ -1,3 +1,3 @@
-# -Deeplearning-with-tensorflow
-Example codes for deep learning with tensorflow
+# Example codes for deep learning with tensorflow
+
 
